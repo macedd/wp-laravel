@@ -1,0 +1,21 @@
+{
+    "name": "thiagof/wp-laravel",
+    "description": "The Laravel Integration for WordPress.",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Thiago Macedo",
+            "email": "thiago@internetbudi.com.br"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "laravel/laravel": "^5.8"
+    },
+    "autoload": {
+        "files": [
+            "wp-laravel/wp-laravel.php"
+        ]
+    }
+}
